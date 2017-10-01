@@ -1,2 +1,2 @@
 println "Pozdrav iz prvog fajla"
-println "... sa moje nove grane!"
+println "...sa moje nove grane."
